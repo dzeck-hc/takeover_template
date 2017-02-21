@@ -1,3 +1,10 @@
-#DOCUMENTACIÓN TAKE OVER FRONT - GARANTÍA
+#DOCUMENTACIÓN TAKE OVER 
 
-Take Over para el Front
+##Aplica para la pagina de Inicio y para la sección de Garantía
+
+La finalidad de este documento es establecer las bases de uso de las plantillas de los *take-over* para Cinépolis®.
+
+
+'''
+<code> this is a code block </code>
+'''
