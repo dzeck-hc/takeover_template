@@ -5,6 +5,6 @@
 La finalidad de este documento es establecer las bases de uso de las plantillas de los *take-over* para Cinépolis®.
 
 
-'''javascript
+´´javascript
 	console.log('ejemplo');
-'''
+´´´
